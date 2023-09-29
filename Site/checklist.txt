@@ -1,6 +1,6 @@
 [ok] Tags 
-[  ] Listas 
+[ok] Listas 
 [ok] CSS 
-[  ] Imagens 
-[  ] Tabelas 
-[  ] Formulários
+[ok] Imagens 
+[ok] Tabelas 
+[ok] Formulários
